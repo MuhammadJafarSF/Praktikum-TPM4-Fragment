@@ -9,8 +9,8 @@ public class ListGalleryModel {
         return MountName;
     }
 
-    public void setMountName(String vegetableName) {
-        MountName = vegetableName;
+    public void setMountName(String mountName) {
+        MountName = mountName;
     }
 
     public int getMountPhoto() {
